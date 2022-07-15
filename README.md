@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshvajpayee&label=Profile%20views&color=0e75b6&style=flat" alt="adarshvajpayee" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adarshvajpayee" target="blank"><img src="https://img.shields.io/twitter/follow/adarshvajpayee?logo=twitter&style=for-the-badge" alt="adarshvajpayee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AdarshVajpayee2" target="blank"><img src="https://img.shields.io/twitter/follow/adarshvajpayee?logo=twitter&style=for-the-badge" alt="adarshvajpayee" /></a> </p>
 
 - 🔭 I’m currently working on **Java**
 
