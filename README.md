@@ -18,7 +18,7 @@
 - 💬 Ask me about **C,HTML,CSS**
 
 - 📫 How to reach me **adarshvajpayee19@gmail.com**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/adarsh.vajpayee.58/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarshvajpayee" height="30" width="40" /></a>
