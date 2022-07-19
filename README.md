@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshvajpayee&label=Profile%20views&color=0e75b6&style=flat" alt="adarshvajpayee" /> </p>
 
 <p align="left"> <a href="https://twitter.com/AdarshVajpayee2" target="blank"><img src="https://img.shields.io/twitter/follow/adarshvajpayee?logo=twitter&style=for-the-badge" alt="adarshvajpayee" /></a> </p>
-<hr>
 
 - 🔭 I’m currently working on **Java**
 
@@ -19,7 +18,7 @@
 - 💬 Ask me about **C,HTML,CSS**
 
 - 📫 How to reach me **adarshvajpayee19@gmail.com**
-<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/adarsh.vajpayee.58/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarshvajpayee" height="30" width="40" /></a>
