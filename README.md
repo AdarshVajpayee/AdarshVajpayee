@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/AdarshVajpayee2" target="blank"><img src="https://img.shields.io/twitter/follow/adarshvajpayee?logo=twitter&style=for-the-badge" alt="adarshvajpayee" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **C,Tailwind Css Framework**
 
-- 💬 Ask me about **C,HTML,CSS**
+- 💬 Ask me about **C,HTML,CSS,Java**
 
 - 📫 How to reach me **adarshvajpayee19@gmail.com**
 
